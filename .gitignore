@@ -1,0 +1,10 @@
+
+*.iml
+
+*.xml
+
+.RData
+
+.Rhistory
+
+data.csv
